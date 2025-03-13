@@ -1,3 +1,9 @@
+'''
+Draw a letter on the canvas and the model will predict the letter. 
+The confidence of each class is displayed in a bar chart.
+'''
+
+
 import tensorflow as tf
 from tensorflow.keras import Sequential
 from tensorflow.keras.layers import Dense, Flatten

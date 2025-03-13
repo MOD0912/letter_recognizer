@@ -1,3 +1,8 @@
+'''
+Draw a letter and the model will predict it
+'''
+
+
 import customtkinter as ctk
 import tensorflow.python as tf
 from tensorflow.python.keras.models import load_model
