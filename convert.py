@@ -1,6 +1,9 @@
 import os
 from PIL import Image
 
+'''
+Extracts letters from an image and saves them as individual files in the output directory
+'''
 def extract_letters(image_path, output_dir):
     
     letter_width = 150

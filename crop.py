@@ -2,6 +2,11 @@ import os
 from PIL import Image, ImageTk
 import customtkinter as ctk
 
+'''
+Crop images to the desired size
+'''
+
+
 class Main(ctk.CTk):
     def __init__(self):
         super().__init__()
