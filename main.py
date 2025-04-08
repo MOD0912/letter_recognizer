@@ -118,6 +118,7 @@ class DigitRecognizerApp:
         for i in self.lst:
             print(i)
 
+
 # --- Launch the Application ---
 if __name__ == "__main__":
     if not os.path.exists("try"):
