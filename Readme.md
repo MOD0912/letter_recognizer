@@ -30,8 +30,8 @@ Dieses Projekt ist ein **Letter Recognizer**, der mithilfe von KI Buchstaben erk
 1. Starten Sie die Anwendung mit dem obigen Befehl.
 2. Zeichnen sie die Buchstaben in dem bereitgestellten Zeichenbereich.
 3. Klicken Sie auf die Schaltfläche "Predict", um die Buchstaben zu erkennen.
-4. Drücken Sie auf "Clear", um den Zeichenbereich zu löschen und eine neue Eingabe zu ermöglichen.	
-5. Die KI erkennt die Buchstaben und zeigt die Ergebnisse im Terminal an.
+4. Die KI erkennt die Buchstaben und zeigt die Ergebnisse im Terminal an.
+5. Drücken Sie auf "Clear", um den Zeichenbereich zu löschen und eine neue Eingabe zu ermöglichen.	
 
 ## Screenshots
 
