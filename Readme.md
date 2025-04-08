@@ -36,7 +36,7 @@ Dieses Projekt ist ein **Letter Recognizer**, der mithilfe von KI Buchstaben erk
 ## Screenshots
 
 ### Haupt-GUI
-![image](https://github.com/user-attachments/assets/ae49ade4-8481-4fe0-8fc8-2b21e026fa98)
+![Screenshot 2025-04-08 111243](https://github.com/user-attachments/assets/5f22c359-593a-42ff-a76b-c877641fdc68)
 
 ### Ergebnisse
 ![Ergebnisse](screenshots/results.png)
