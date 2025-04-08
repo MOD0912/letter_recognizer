@@ -39,11 +39,12 @@ Dieses Projekt ist ein **Letter Recognizer**, der mithilfe von KI Buchstaben erk
 ![Screenshot 2025-04-08 111243](https://github.com/user-attachments/assets/5f22c359-593a-42ff-a76b-c877641fdc68)
 
 ### Ergebnisse
-![Ergebnisse](screenshots/results.png)
+![Screenshot 2025-04-08 113153](https://github.com/user-attachments/assets/e40a4414-87c8-42cb-88c6-ce571e8f0cc5)
 
 ## Anforderungen
 - Python 3.8 oder höher
 - Abhängigkeiten aus `requirements.txt`
+- venv empfählenswert. Anleitung für vsc: https://code.visualstudio.com/docs/python/environments
 
 ## Lizenz
 Keine LIzenz 
